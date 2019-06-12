@@ -1,1 +1,1 @@
-# li-fi
+# Arduino Light Fidelity
