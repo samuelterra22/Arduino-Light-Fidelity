@@ -5,3 +5,5 @@ http://www.ijettjournal.org/2017/volume-46/number-3/IJETT-V46P223.pdf
 https://github.com/jpiat/arduino
 https://www.youtube.com/watch?v=LNtmLapUSzw
 https://github.com/ramonidea/LI-FI-Arduino
+https://pdfs.semanticscholar.org/94b7/e952c23b86ce37a426adc100d4cfa278ba57.pdf
+https://www.marlonnardi.com/p/comunicacao-entre-arduino-utilizando.html
